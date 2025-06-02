@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648670750072",
+    "project_id": "thesis-50167",
+    "storage_bucket": "thesis-50167.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648670750072:android:f53bed462fd41f1806948d",
+        "android_client_info": {
+          "package_name": "com.dubd.permissionsscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmEMKLMr-Vjq94Z2HiBUZnZXf5FVr0SBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
