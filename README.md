@@ -1,6 +1,6 @@
 # 📱 Tracko: A User-Incentive Mobile Security System
 
-Tracko is a mobile security application designed to empower users with control over their privacy and security through **real-time monitoring**, **categorized permissions**, and a **reward-based dashboard**. Developed using **Kotlin** and **Java** for Android, Tracko introduces a user-centric security model that educates and incentivizes users to maintain safer digital habits.
+Tracko is a mobile security application designed to empower users with control over their privacy and security through **real-time alerts**, **categorized permissions**, and a **reward-based dashboard**. Developed using **Kotlin** and **Java** for Android, Tracko introduces a user-centric security model that educates and incentivizes users to maintain safer digital habits.
 
 
 ## 🚀 Features
